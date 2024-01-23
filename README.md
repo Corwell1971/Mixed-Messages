@@ -26,8 +26,8 @@ Project orginates from Codecademy's Full Stack Developer course
 
 ### Sources
 
-* Codecademy
-* WikiPedia for explanation of Mad Libs.
+1. Codecademy
+2. WikiPedia for explanation of Mad Libs.
 
 ### Contact
 
