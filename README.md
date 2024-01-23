@@ -33,4 +33,4 @@ Project orginates from Codecademy's Full Stack Developer course
 
 **Author** - Cory Wellington
 
-**Email** - dpbernard18@gmail.com
+**Email** - corwell9@gmail.com
